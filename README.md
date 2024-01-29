@@ -17,108 +17,37 @@ French Language Version. Vingt ans de jeunesse.  Not available yet
 ## Table of Contents
 
 
-
-[ch1.html](/ch1.html)
-
-
 [Réamhra an Eagarthora don dara heagran](/fiche2.html#Eagarthora)
 
 [Réamhra an Eagarthora don triú heagran](/fiche2.html#Reamhra)
+[Réamhrá an údair don chéad eagrán](/fiche2.html#eagran)
+[I. I nDaingean Uí Chúise](/fiche2.html#nDaingean)
+[II. Mo thuras abhaile dhom](/fiche2.html#abhaile)
+[III. An baile](/fiche2.html#baile)
+[IV. Lá seilge](/fiche2.html#seilge)
+[V. Maicréil ag ráthaíocht](/fiche2.html#Maic)
+[VI. Scairt Phiarais agus an Leaca Dhubhach](/fiche2.html#Scairt)
+[VII. Oíche Shamhna](/fiche2.html#Shamhna)
+[VIII. Mo chéad turas go dtí an Inis](/fiche2.html#Inis)
+[IX. Ráiseanna Fionntrá](/fiche2.html#Fionn)
+[X. An Tórramh](/fiche2.html#Torramh)
+[XI. Oíche san Inis](/fiche2.html#sanInis)
+[XII. An fear siúil](/fiche2.html#Anfear)
+[XIII. An cogadh](/fiche2.html#cogadh)
+[XIV. Long ar Charraig an Léochair](/fiche2.html#Charraig)
+[XV. Biaiste gliomach](/fiche2.html#gliomach)
+[XVI. An cleamhnas](/fiche2.html#cleamhnas)
+[XVII. La bainise i mBaile an Fheirtéaraigh](/fiche2.html#bainise)
+[XVIII. An tórramh Meiriceánach](/fiche2.html#Meirice)
+[XIX. An stroinséir](/fiche2.html#stroin)
+[XX. Mo thuras déanach go dti an Inis](/fiche2.html#thuras)
+[XXI. Fágaim an baile](/fiche2.html#fagaim)
+[XXII. On nDaingean soir](/fiche2.html#soir)
+[XXIII. Cathair Bhaile Atha Cliath](/fiche2.html#atha)
+[XXIV. Im phóilín](/fiche2.html#phoil)
+[XXV. I gConamara](/fiche2.html#gConamara)
 
+[XXVI. Críoch](/fiche2.html#crioch)
 
-<a href="#eagran">Réamhrá an údair don chéad eagrán</a>
-
-
-<p></p>
-<a href="#nDaingean">I. I nDaingean Uí Chúise</a>
-
-
-<p></p>
-<a href="#abhaile">II. Mo thuras abhaile dhom</a>
-<p></p>
-<a href="#baile">III. An baile</a>
-<p></p>
-<a href="#seilge">IV. Lá seilge</a>
-
-<p></p>
-<p></p>
-<a href="#Maic">V. Maicréil ag ráthaíocht</a>
-
-
-<p></p>
-<a href="#Scairt">VI. Scairt Phiarais agus an Leaca Dhubhach</a>
-
-
-<p></p>
-<a href="#Shamhna">VII. Oíche Shamhna</a>
-
-<p></p>
-<a href="#Inis">VIII. Mo chéad turas go dtí an Inis</a>
-
-<p></p>
-<a href="#seilge">IX. Ráiseanna Fionntrá</a>
-
-
-<p></p>
-<a href="#Torramh">X. An Tórramh</a>
-
-
-<p></p>
-<a href="#sanInis">XI. Oíche san Inis</a>
-
-<p></p>
-<a href="#Anfear">XII. An fear siúil</a>
-
-
-<p></p>
-<a href="#cogadh">XIII. An cogadh</a>
-
-<p></p>
-<a href="#Charraig">XIV. Long ar Charraig an Léochair</a>
-
-
-<p></p>
-<a href="#gliomach">XV. Biaiste gliomach</a>
-
-<p></p>
-<p></p>
-<a href="#cleamhnas">XVI. An cleamhnas</a>
-<p></p>
-<a href="#bainise ">XVII. La bainise i mBaile an Fheirtéaraigh</a>
-
-<p></p>
-<p></p>
-<a href="#Meirice">XVIII. An tórramh Meiriceánach</a>
-
-<p></p>
-<p></p>
-<a href="#stroin">XIX. An stroinséir</a>
-
-<p></p>
-<p></p>
-<a href="#thuras">XX. Mo thuras déanach go dti an Inis</a>
-
-
-<p></p>
-<a href="#fagaim">XXI. Fágaim an baile</a>
-
-<p></p>
-<p></p>
-<a href="#soir">XXII. On nDaingean soir</a>
-
-<p></p>
-<a href="#atha">XXIII. Cathair Bhaile Atha Cliath</a>
-
-<p></p>
-<p></p>
-<a href="#phoil">XXIV. Im phóilín</a>
-
-<p></p>
-
-<p></p>
-<a href="#gConamara">XXV. I gConamara</a>
-
-<p></p>
-<a href="#crioch">XXVI. Críoch</a>
-
-[ch1.html](/ch1.html)
+Nótaí an údair
+Foclóirin
