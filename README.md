@@ -80,10 +80,63 @@ Nótaí an údair
 Foclóirin
 
 
-## Englsih Table of Contents
+## English Table of Contents
+
+![Front Cover](frontEng.png)
 
 [Introductory Note](/twenty3.html#Introd)
 
-[Introductory Note](/twenty3.html#Introd)
+[Translators’ Preface](/twenty3.html#Trans)
 
-[Introductory Note](/twenty3.html#Introd)
+[I. In Dingle](/twenty3.html#dingle)
+
+[II, My First Journey Home 18](/twenty3.html#first)
+
+[III. The Island](/twenty3.html#island)
+
+[IV. A Day’s Hunting 38](/twenty3.html#hunt)
+
+[V. Ventry Races 46](/twenty3.html#vent)
+
+[VI. Pierce’s Cave 76](/twenty3.html#cave)
+
+[VII. A Shoal of Mackerel 81](/twenty3.html#shaol)
+
+[VIII. Halloween 89](/twenty3.html#Halloween)
+
+[IX. The Whale 97](/twenty3.html#whale)
+
+[X. The Wake 106](/twenty3.html#wake)
+
+[XI. A Night in the Inish 122](/twenty3.html#inish)
+
+[XII. The War 141](/twenty3.html#war)
+
+[XIII. The Shipwreck 155](/twenty3.html#ship)
+
+[XIV. The Wanderer 166](/twenty3.html#wand)
+
+[XV. The Lobster Season 186](/twenty3.html#lobster)
+
+[XVI. Matchmaking 193](/twenty3.html#match)
+
+[XVII The Wedding Day 204](/twenty3.html#wedding)
+
+[XVIII. An American Wake 219](/twenty3.html#amer)
+
+[XIX. The Stranger 224](/twenty3.html#strange)
+
+[XX. My Last Journey to the Inish](/twenty3.html#last)
+
+[XXI. I Leave Home](/twenty3.html#leave)
+
+[XXII. From Dingle East](/twenty3.html#east)
+
+[XXIII.The City of Dublin](/twenty3.html#city)
+
+[XXIV. The Civic Guard](/twenty3.html#civic)
+
+[XXV. Connemara](/twenty3.html#conn)
+
+[XXVI. Conclusion](/twenty3.html#conc)
+
