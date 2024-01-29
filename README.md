@@ -90,7 +90,7 @@ Foclóirin
 
 [I. In Dingle](/twenty3.html#dingle)
 
-[II, My First Journey Home 18](/twenty3.html#first)
+[II. My First Journey Home 18](/twenty3.html#first)
 
 [III. The Island](/twenty3.html#island)
 
