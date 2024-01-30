@@ -84,59 +84,59 @@ Foclóirin
 
 ![Front Cover](frontEng.png)
 
-[Introductory Note](/twenty3.html#Introd)
+[Introductory Note](/twenty4.html#Introd)
 
-[Translators’ Preface](/twenty3.html#Trans)
+[Translators’ Preface](/twenty4.html#Trans)
 
-[I. In Dingle](/twenty3.html#dingle)
+[I. In Dingle](/twenty4.html#dingle)
 
-[II. My First Journey Home 18](/twenty3.html#first)
+[II. My First Journey Home 18](/twenty4.html#first)
 
-[III. The Island](/twenty3.html#island)
+[III. The Island](/twenty4.html#island)
 
-[IV. A Day’s Hunting 38](/twenty3.html#hunt)
+[IV. A Day’s Hunting 38](/twenty4.html#hunt)
 
-[V. Ventry Races 46](/twenty3.html#vent)
+[V. Ventry Races 46](/twenty4.html#vent)
 
-[VI. Pierce’s Cave 76](/twenty3.html#cave)
+[VI. Pierce’s Cave 76](/twenty4.html#cave)
 
-[VII. A Shoal of Mackerel 81](/twenty3.html#shaol)
+[VII. A Shoal of Mackerel 81](/twenty4.html#shaol)
 
-[VIII. Halloween 89](/twenty3.html#Halloween)
+[VIII. Halloween 89](/twenty4.html#Halloween)
 
-[IX. The Whale 97](/twenty3.html#whale)
+[IX. The Whale 97](/twenty4.html#whale)
 
-[X. The Wake 106](/twenty3.html#wake)
+[X. The Wake 106](/twenty4.html#wake)
 
-[XI. A Night in the Inish 122](/twenty3.html#inish)
+[XI. A Night in the Inish 122](/twenty4.html#inish)
 
-[XII. The War 141](/twenty3.html#war)
+[XII. The War 141](/twenty4.html#war)
 
-[XIII. The Shipwreck 155](/twenty3.html#ship)
+[XIII. The Shipwreck 155](/twenty4.html#ship)
 
-[XIV. The Wanderer 166](/twenty3.html#wand)
+[XIV. The Wanderer 166](/twenty4.html#wand)
 
-[XV. The Lobster Season 186](/twenty3.html#lobster)
+[XV. The Lobster Season 186](/twenty4.html#lobster)
 
-[XVI. Matchmaking 193](/twenty3.html#match)
+[XVI. Matchmaking 193](/twenty4.html#match)
 
-[XVII The Wedding Day 204](/twenty3.html#wedding)
+[XVII The Wedding Day 204](/twenty4.html#wedding)
 
-[XVIII. An American Wake 219](/twenty3.html#amer)
+[XVIII. An American Wake 219](/twenty4.html#amer)
 
-[XIX. The Stranger 224](/twenty3.html#strange)
+[XIX. The Stranger 224](/twenty4.html#strange)
 
-[XX. My Last Journey to the Inish](/twenty3.html#last)
+[XX. My Last Journey to the Inish](/twenty4.html#last)
 
-[XXI. I Leave Home](/twenty3.html#leave)
+[XXI. I Leave Home](/twenty4.html#leave)
 
-[XXII. From Dingle East](/twenty3.html#east)
+[XXII. From Dingle East](/twenty4.html#east)
 
-[XXIII.The City of Dublin](/twenty3.html#city)
+[XXIII.The City of Dublin](/twenty4.html#city)
 
-[XXIV. The Civic Guard](/twenty3.html#civic)
+[XXIV. The Civic Guard](/twenty4.html#civic)
 
-[XXV. Connemara](/twenty3.html#conn)
+[XXV. Connemara](/twenty4.html#conn)
 
-[XXVI. Conclusion](/twenty3.html#conc)
+[XXVI. Conclusion](/twenty4.html#conc)
 
