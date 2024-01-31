@@ -84,9 +84,9 @@ Foclóirin
 
 ![Front Cover](frontEng.png)
 
-[Introductory Note](/twenty4.html#Introd)
+[Introductory Note](/twenty4.html#id.gjdgxs)
 
-[Translators’ Preface](/twenty4.html#Trans)
+[Translators’ Preface](/twenty4.html#id.30j0zll)
 
 [I. In Dingle](/twenty4.html#dingle)
 
@@ -139,4 +139,10 @@ Foclóirin
 [XXV. Connemara](/twenty4.html#conn)
 
 [XXVI. Conclusion](/twenty4.html#conc)
+
+
+<p class="c1"><span class="c6"><a class="c3" href="#id.1fob9te">I. In Dingle 3</a></span></p><p class="c1"><span class="c6">
+<a class="c3" href="#id.3znysh7">II, My First Journey Home 18</a></span></p><p class="c1"><span class="c6">
+<a class="c3" href="#id.2et92p0">III. The Island</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.tyjcwt">IV. A Day&rsquo;s Hunting 38</a></span></p><p class="c1">
+  <span class="c6"><a class="c3" href="#id.3dy6vkm">V. Ventry Races 46</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.1t3h5sf">VI. Pierce&rsquo;s Cave 76</a></span></p><p class="c1"><span class="c6"><a class="c3" href="#id.4d34og8">VII. A Shoal of Mackerel 81</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.2s8eyo1">VIII. Halloween 89</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.17dp8vu">IX. The Whale 97</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.3rdcrjn">X. The Wake 106</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.26in1rg">XI. A Night in the Inish 122</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.lnxbz9">XII. The War 141</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.35nkun2">XIII. The Shipwreck 155</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.1ksv4uv">XIV. The Wanderer 166</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.44sinio">XV. The Lobster Season 186</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.2jxsxqh">XVI. Matchmaking 193</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.z337ya">XVII The Wedding Day 204</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.3j2qqm3">XVIII. An American Wake 219</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.1y810tw">XIX. The Stranger 224</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.4i7ojhp">XX. My Last Journey to the </a></span><span class="c6"><a class="c3" href="#id.4i7ojhp">Inish</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.2xcytpi">XXI. I Leave Home</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.1ci93xb">XXII. From Dingle East</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.3whwml4">XXIII.The City of Dublin</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.2bn6wsx">XXIV. The Civic Guard</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.qsh70q">XXV. Connemara</a></span><span class="c0">&nbsp;</span></p><p class="c1"><span class="c6"><a class="c3" href="#id.3as4poj">XXVI. Conclusion</a></span></p><p class="c1 c2"><span class="c5"></span></p><p class="c1">
 
