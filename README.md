@@ -93,61 +93,8 @@ Foclóirin
 
 ![Front Cover](frontEng.png)
 
-[Introductory Note](/twenty4.html#id.gjdgxs)
+[Text](/twenty4.html)
 
-English clickable chapter links not working now. 
+English clickable chapter links not working right now. 
 
-[Translators’ Preface](/twenty4.html#id.30j0zll)
-
-[I. In Dingle](/twenty4.html#dingle)
-
-[II. My First Journey Home 18](/twenty4.html#first)
-
-[III. The Island](/twenty4.html#island)
-
-[IV. A Day’s Hunting 38](/twenty4.html#hunt)
-
-[V. Ventry Races 46](/twenty4.html#vent)
-
-[VI. Pierce’s Cave 76](/twenty4.html#cave)
-
-[VII. A Shoal of Mackerel 81](/twenty4.html#shaol)
-
-[VIII. Halloween 89](/twenty4.html#Halloween)
-
-[IX. The Whale 97](/twenty4.html#whale)
-
-[X. The Wake 106](/twenty4.html#wake)
-
-[XI. A Night in the Inish 122](/twenty4.html#inish)
-
-[XII. The War 141](/twenty4.html#war)
-
-[XIII. The Shipwreck 155](/twenty4.html#ship)
-
-[XIV. The Wanderer 166](/twenty4.html#wand)
-
-[XV. The Lobster Season 186](/twenty4.html#lobster)
-
-[XVI. Matchmaking 193](/twenty4.html#match)
-
-[XVII The Wedding Day 204](/twenty4.html#wedding)
-
-[XVIII. An American Wake 219](/twenty4.html#amer)
-
-[XIX. The Stranger 224](/twenty4.html#strange)
-
-[XX. My Last Journey to the Inish](/twenty4.html#last)
-
-[XXI. I Leave Home](/twenty4.html#leave)
-
-[XXII. From Dingle East](/twenty4.html#east)
-
-[XXIII.The City of Dublin](/twenty4.html#city)
-
-[XXIV. The Civic Guard](/twenty4.html#civic)
-
-[XXV. Connemara](/twenty4.html#conn)
-
-[XXVI. Conclusion](/twenty4.html#conc)
 
