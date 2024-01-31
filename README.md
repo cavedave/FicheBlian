@@ -16,7 +16,7 @@ If an error happens once it probably happens elsewhere and I can fix them all at
 
 [Dylan Thomas Screenplay](https://github.com/cavedave/FicheBlian/blob/main/twenty%20years%20a%20growing%20--%20dylan%20thomas.pdf)
 
-![Dylan Thomas](dylan.jpg)
+![Dylan Thomas](Dylan.jpeg)
 
 [Irish Pdf](https://github.com/cavedave/FicheBlian/blob/main/fiche%20blian%20ag%20fas%20--%20muiris%20o%20suilleabhain.pdf)
 
