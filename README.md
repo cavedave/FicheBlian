@@ -9,6 +9,8 @@ HTML version of the Irish Language Edition of Twenty Years a growing by Muiris �
 [English Language pdf ](https://github.com/cavedave/FicheBlian/blob/main/Twenty%20Years%20a%20Growing%20--%20Maurice%20O'Sullivan.pdf)
 
 [Dylan Thomas Screenplay](https://github.com/cavedave/FicheBlian/blob/main/twenty%20years%20a%20growing%20--%20dylan%20thomas.pdf)
+![Dylan Thomas](dylan.png)
+
 [Irish Pdf](https://github.com/cavedave/FicheBlian/blob/main/fiche%20blian%20ag%20fas%20--%20muiris%20o%20suilleabhain.pdf)
 
 
@@ -85,6 +87,8 @@ Foclóirin
 ![Front Cover](frontEng.png)
 
 [Introductory Note](/twenty4.html#id.gjdgxs)
+
+English clickable chapter links not working now. 
 
 [Translators’ Preface](/twenty4.html#id.30j0zll)
 
