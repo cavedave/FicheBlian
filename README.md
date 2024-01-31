@@ -9,7 +9,7 @@ HTML version of the Irish Language Edition of Twenty Years a growing by Muiris Ã
 [English Language pdf ](https://github.com/cavedave/FicheBlian/blob/main/Twenty%20Years%20a%20Growing%20--%20Maurice%20O'Sullivan.pdf)
 
 [Dylan Thomas Screenplay](https://github.com/cavedave/FicheBlian/blob/main/twenty%20years%20a%20growing%20--%20dylan%20thomas.pdf)
-![Dylan Thomas](dylan.png)
+![Dylan Thomas](dylan.jpeg)
 
 [Irish Pdf](https://github.com/cavedave/FicheBlian/blob/main/fiche%20blian%20ag%20fas%20--%20muiris%20o%20suilleabhain.pdf)
 
