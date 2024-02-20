@@ -20,8 +20,10 @@ If an error happens once it probably happens elsewhere and I can fix them all at
 
 [Irish Pdf](https://github.com/cavedave/FicheBlian/blob/main/fiche%20blian%20ag%20fas%20--%20muiris%20o%20suilleabhain.pdf)
 
+## Vingt ans de jeunesse French version 
+French Language Version. Vingt ans de jeunesse.  Not scanned  yet. If you can proof read French that would be great.
 
-French Language Version. Vingt ans de jeunesse.  Not scanned  yet
+[Le Banc de Maquereaux](/FicheBlian/blob/main/FrenchMackerel.txt)
 
 ## Irish Table of Contents
 
