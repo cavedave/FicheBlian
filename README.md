@@ -93,64 +93,63 @@ Foclóirin
 
 ![Front Cover](frontEng.png)
 
-[Text](/twenty4.html)
 
 [Introductory Note by E. M. Forster](/FicheBlian/twenty4.html#h.v1g7ed72c5x6)
 
-[Translators’ Preface](FicheBlian/twenty4.html#h.56yl1huyx3ps)
+[Translators’ Preface](/FicheBlian/twenty4.html#h.56yl1huyx3ps)
 
 [I. In Dingle](/FicheBlian/twenty4.html#h.ofjudc5wkxv)
 
-[II, My First Journey Home]()
+[II, My First Journey Home](/FicheBlian/twenty4.html#h.k54y8glwe8rq)
 
-[III. The Island]() 
+[III. The Island](/FicheBlian/twenty4.html#h.oz5ckvx4vpn5) 
 
-[IV. A Day’s Hunting]()
+[IV. A Day’s Hunting](/FicheBlian/twenty4.html#h.7b3l2hju213p)
 
-[V. Ventry Races]() 
+[V. Ventry Races](/FicheBlian/twenty4.html#h.oqi9aeoe5kmb) 
 
-[VI. Pierce’s Cave]()
+[VI. Pierce’s Cave](/FicheBlian/twenty4.html#h.fiu24d9ronar)
 
-[VII. A Shoal of Mackerel]() 
+[VII. A Shoal of Mackerel](/FicheBlian/twenty4.html#h.v6yrpin87x84) 
 
-[VIII. Halloween](/fiche4.html) 
+[VIII. Halloween](/FicheBlian/twenty4.html#h.iq0m0er6rwaq) 
 
-[IX. The Whale](/fiche4.html) 
+[IX. The Whale](/FicheBlian/twenty4.html#h.ec3p9rtmsivj) 
 
-[X. The Wake](/fiche4.html) 
+[X. The Wake](/FicheBlian/twenty4.html#h.rhs2jguzz89r) 
 
-[XI. A Night in the Inish](/fiche4.html) 
+[XI. A Night in the Inish](/FicheBlian/twenty4.html#h.6p341mfwkgea) 
 
-[XII. The War](/fiche4.html) 
+[XII. The War](/FicheBlian/twenty4.html#h.kxqrh5x55iyd) 
 
-[XIII. The Shipwreck](/fiche4.html)
+[XIII. The Shipwreck](/FicheBlian/twenty4.html#h.5c384yzujwe)
 
-[XIV. The Wanderer](/fiche4.html) 
+[XIV. The Wanderer](/FicheBlian/twenty4.html#h.lrgdcs7kk9wi) 
 
-[XV. The Lobster Season](/fiche4.html)
+[XV. The Lobster Season](/FicheBlian/twenty4.html#h.l82iq5hxbtgy)
 
-[XVI. Matchmaking](/fiche4.html) 
+[XVI. Matchmaking](/FicheBlian/twenty4.html#h.jvmh0i36uzpa) 
 
-[XVII The Wedding Day](/fiche4.html) 
+[XVII The Wedding Day](/FicheBlian/twenty4.html#h.af744h843h94) 
 
-[XVIII. An American Wake](/fiche4.html) 
+[XVIII. An American Wake](/FicheBlian/twenty4.html#h.eljcz7q1mpwb) 
 
-[XIX. The Stranger](/fiche4.html) 
+[XIX. The Stranger](/FicheBlian/twenty4.html#h.rsz6ftfycye2) 
 
-[XX. My Last Journey to the Inish](/fiche4.html)
+[XX. My Last Journey to the Inish](/FicheBlian/twenty4.html#h.xm9iyikkor37)
 
-[XXI. I Leave Home](/fiche4.html) 
+[XXI. I Leave Home](/FicheBlian/twenty4.html#h.cygzew5tctcu#h.6y08519q9apv) 
 
-[XXII. From Dingle East](/fiche4.html)
+[XXII. From Dingle East](/FicheBlian/twenty4.html#h.kt1z824uspc2)
 
-[XXIII.The City of Dublin](/fiche4.html) 
+[XXIII.The City of Dublin](/FicheBlian/twenty4.html#h.kt1z824uspc2) 
 
-[XXIV. The Civic Guard](/fiche4.html) 
+[XXIV. The Civic Guard](/FicheBlian/twenty4.html#h.557tvsnpqn4i) 
 
-[XXV. Connemara](/fiche4.html)
+[XXV. Connemara](/FicheBlian/twenty4.html#h.gdf0sjhlzr4n)
 
-[XXVI. Conclusion](/fiche4.html)
+[XXVI. Conclusion](/FicheBlian/twenty4.html#h.oo726i2w7ab5)
 
-English clickable chapter links not working right now. 
+
 
 
