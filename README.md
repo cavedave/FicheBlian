@@ -23,7 +23,7 @@ If an error happens once it probably happens elsewhere and I can fix them all at
 ## Vingt ans de jeunesse French version 
 French Language Version. Vingt ans de jeunesse.  Not scanned  yet. If you can proof read French that would be great.
 
-[Le Banc de Maquereaux](/FicheBlian/blob/main/FrenchMackerel.txt)
+[Le Banc de Maquereaux](/FrenchMackerel.txt)
 
 ## Irish Table of Contents
 
