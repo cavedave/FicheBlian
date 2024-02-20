@@ -140,7 +140,7 @@ Foclóirin
 
 [XXI. I Leave Home](/FicheBlian/twenty4.html#h.cygzew5tctcu) 
 
-[XXII. From Dingle East](/FicheBlian/twenty4.html#h.kt1z824uspc2)
+[XXII. From Dingle East](/FicheBlian/twenty4.html#h.6y08519q9apv)
 
 [XXIII.The City of Dublin](/FicheBlian/twenty4.html#h.kt1z824uspc2) 
 
