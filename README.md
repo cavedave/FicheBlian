@@ -94,33 +94,61 @@ Foclóirin
 ![Front Cover](frontEng.png)
 
 [Text](/twenty4.html)
-[Introductory Note by E. M. Forster](/fiche4.html#h.v1g7ed72c5x6)
+
+[Introductory Note by E. M. Forster](/FicheBlian/fiche4.html#h.v1g7ed72c5x6)
+
 [Translators’ Preface](/fiche4.html#h.56yl1huyx3ps)
+
 [I. In Dingle](/fiche4.html)
-[II, My First Journey Home](/fiche4.html)
+
+[II, My First Journey Home](/FicheBlian/fiche4.html)
+
 [III. The Island](/fiche4.html) 
+
 [IV. A Day’s Hunting](/fiche4.html)
+
 [V. Ventry Races](/fiche4.html) 
+
 [VI. Pierce’s Cave](/fiche4.html)
+
 [VII. A Shoal of Mackerel](/fiche4.html) 
+
 [VIII. Halloween](/fiche4.html) 
+
 [IX. The Whale](/fiche4.html) 
+
 [X. The Wake](/fiche4.html) 
+
 [XI. A Night in the Inish](/fiche4.html) 
+
 [XII. The War](/fiche4.html) 
+
 [XIII. The Shipwreck](/fiche4.html)
+
 [XIV. The Wanderer](/fiche4.html) 
+
 [XV. The Lobster Season](/fiche4.html)
+
 [XVI. Matchmaking](/fiche4.html) 
+
 [XVII The Wedding Day](/fiche4.html) 
+
 [XVIII. An American Wake](/fiche4.html) 
+
 [XIX. The Stranger](/fiche4.html) 
+
 [XX. My Last Journey to the Inish](/fiche4.html)
+
 [XXI. I Leave Home](/fiche4.html) 
+
 [XXII. From Dingle East](/fiche4.html)
+
 [XXIII.The City of Dublin](/fiche4.html) 
+
 [XXIV. The Civic Guard](/fiche4.html) 
+
 [XXV. Connemara](/fiche4.html)
+
 [XXVI. Conclusion](/fiche4.html)
 
 English clickable chapter links not working right now. 
