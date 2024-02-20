@@ -95,7 +95,7 @@ Foclóirin
 
 [Text](/twenty4.html)
 
-[Introductory Note by E. M. Forster](/FicheBlian/fiche4.html#h.v1g7ed72c5x6)
+[Introductory Note by E. M. Forster](/FicheBlian/fiche4.html#h.56yl1huyx3ps)
 
 [Translators’ Preface](/fiche4.html#h.56yl1huyx3ps)
 
