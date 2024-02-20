@@ -95,23 +95,23 @@ Foclóirin
 
 [Text](/twenty4.html)
 
-[Introductory Note by E. M. Forster](/FicheBlian/fiche4.html#h.56yl1huyx3ps)
+[Introductory Note by E. M. Forster](/FicheBlian/twenty4.html#h.56yl1huyx3ps)
 
-[Translators’ Preface](/fiche4.html#h.56yl1huyx3ps)
+[Translators’ Preface](/twenty4.html#h.56yl1huyx3ps)
 
-[I. In Dingle](/fiche4.html)
+[I. In Dingle](/FicheBlian/twenty4.html)
 
-[II, My First Journey Home](/FicheBlian/fiche4.html)
+[II, My First Journey Home]()
 
-[III. The Island](/fiche4.html) 
+[III. The Island]() 
 
-[IV. A Day’s Hunting](/fiche4.html)
+[IV. A Day’s Hunting]()
 
-[V. Ventry Races](/fiche4.html) 
+[V. Ventry Races]() 
 
-[VI. Pierce’s Cave](/fiche4.html)
+[VI. Pierce’s Cave]()
 
-[VII. A Shoal of Mackerel](/fiche4.html) 
+[VII. A Shoal of Mackerel]() 
 
 [VIII. Halloween](/fiche4.html) 
 
