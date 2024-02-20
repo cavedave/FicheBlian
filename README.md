@@ -138,7 +138,7 @@ Foclóirin
 
 [XX. My Last Journey to the Inish](/FicheBlian/twenty4.html#h.xm9iyikkor37)
 
-[XXI. I Leave Home](/FicheBlian/twenty4.html#h.cygzew5tctcu#h.6y08519q9apv) 
+[XXI. I Leave Home](/FicheBlian/twenty4.html#h.cygzew5tctcu) 
 
 [XXII. From Dingle East](/FicheBlian/twenty4.html#h.kt1z824uspc2)
 
