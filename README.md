@@ -95,11 +95,11 @@ Foclóirin
 
 [Text](/twenty4.html)
 
-[Introductory Note by E. M. Forster](/FicheBlian/twenty4.html#h.56yl1huyx3ps)
+[Introductory Note by E. M. Forster](/FicheBlian/twenty4.html#h.v1g7ed72c5x6)
 
-[Translators’ Preface](/twenty4.html#h.56yl1huyx3ps)
+[Translators’ Preface](FicheBlian/twenty4.html#h.56yl1huyx3ps)
 
-[I. In Dingle](/FicheBlian/twenty4.html)
+[I. In Dingle](/FicheBlian/twenty4.html#h.ofjudc5wkxv)
 
 [II, My First Journey Home]()
 
