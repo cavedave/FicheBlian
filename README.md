@@ -3,7 +3,8 @@
 HTML version of the Irish Language Edition of Twenty Years a growing by Muiris Ó Súilleabháin.
 https://github.com/cavedave/FicheBlian/blob/main/French.jpg
 
-<img src="[Front Cover](https://github.com/cavedave/FicheBlian/blob/main/French.jpg)" width="100" height="100">
+<img src="https://github.com/cavedave/FicheBlian/blob/main/French.jpg)" width="100" height="100">
+
 
 ![Front Cover](front.png)
 
