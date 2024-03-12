@@ -5,8 +5,7 @@ https://github.com/cavedave/FicheBlian/blob/main/French.jpg
 
 
 
-<img src="https://github.com/cavedave/FicheBlian/blob/main/front.png" width="300" height="400">
-
+![Front Cover](front.png)
 
 ## Please suggest fixes
 
@@ -25,18 +24,19 @@ If an error happens once it probably happens elsewhere and I can fix them all at
 
 ## Vingt ans de jeunesse French version 
 French Language Version. Vingt ans de jeunesse.  Not scanned  yet. If you can proof read French that would be great.
+![French](French.jpg)
 
-<img src="https://github.com/cavedave/FicheBlian/blob/main/French.jpg" width="300" height="400">
 
 
 [Le Banc de Maquereaux](/FrenchMackerel.txt)
 
-## Vingt ans de jeunesse German version 
+## Inselheimat : Romane German version 
 German Language Version. Inselheimat : Roman.  Not scanned  yet. If you can proof read German that would be great.
 
-<img src="https://github.com/cavedave/FicheBlian/blob/main/German.jpeg" width="300" height="400">
 
-
+![German](German.jpeg)
+and
+![German](German2.jpeg)
 
 ## Irish Table of Contents
 
