@@ -34,9 +34,9 @@ French Language Version. Vingt ans de jeunesse.  Not scanned  yet. If you can pr
 ## Vingt ans de jeunesse German version 
 German Language Version. Inselheimat : Roman.  Not scanned  yet. If you can proof read German that would be great.
 
-<img src="https://github.com/cavedave/FicheBlian/blob/main/German.jpeg" width="300" height="300">
+<img src="https://github.com/cavedave/FicheBlian/blob/main/German.jpeg" width="300" height="400">
 
-![German](German.jpeg)
+
 
 ## Irish Table of Contents
 
