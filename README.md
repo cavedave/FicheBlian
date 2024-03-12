@@ -3,7 +3,7 @@
 HTML version of the Irish Language Edition of Twenty Years a growing by Muiris Ó Súilleabháin.
 
 
-![Front Cover](front.png)
+![Front Cover](front.png | width=100)
 
 ## Please suggest fixes
 
