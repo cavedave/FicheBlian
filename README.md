@@ -23,14 +23,14 @@ If an error happens once it probably happens elsewhere and I can fix them all at
 ## Vingt ans de jeunesse French version 
 French Language Version. Vingt ans de jeunesse.  Not scanned  yet. If you can proof read French that would be great.
 
-![French](Dylan.jpeg)
+![French](French.jpeg)
 
 [Le Banc de Maquereaux](/FrenchMackerel.txt)
 
 ## Vingt ans de jeunesse German version 
-German Language Version. Vingt ans de jeunesse.  Not scanned  yet. If you can proof read French that would be great.
+German Language Version. Inselheimat : Roman.  Not scanned  yet. If you can proof read German that would be great.
 
-![German](Dylan.jpeg)
+![German](German.jpeg)
 
 ## Irish Table of Contents
 
