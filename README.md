@@ -5,8 +5,8 @@ https://github.com/cavedave/FicheBlian/blob/main/French.jpg
 
 
 
-<img src="https://github.com/cavedave/FicheBlian/blob/main/front.png" width="300" height="300">
-![Front Cover](front.png)
+<img src="https://github.com/cavedave/FicheBlian/blob/main/front.png" width="300" height="400">
+
 
 ## Please suggest fixes
 
@@ -26,8 +26,8 @@ If an error happens once it probably happens elsewhere and I can fix them all at
 ## Vingt ans de jeunesse French version 
 French Language Version. Vingt ans de jeunesse.  Not scanned  yet. If you can proof read French that would be great.
 
-<img src="https://github.com/cavedave/FicheBlian/blob/main/French.jpg" width="300" height="300">
-![French](French.jpg)
+<img src="https://github.com/cavedave/FicheBlian/blob/main/French.jpg" width="300" height="400">
+
 
 [Le Banc de Maquereaux](/FrenchMackerel.txt)
 
