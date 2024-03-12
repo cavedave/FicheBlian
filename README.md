@@ -23,7 +23,7 @@ If an error happens once it probably happens elsewhere and I can fix them all at
 ## Vingt ans de jeunesse French version 
 French Language Version. Vingt ans de jeunesse.  Not scanned  yet. If you can proof read French that would be great.
 
-![French](French.jpeg)
+![French](French.jpg)
 
 [Le Banc de Maquereaux](/FrenchMackerel.txt)
 
