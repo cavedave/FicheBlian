@@ -3,9 +3,9 @@
 HTML version of the Irish Language Edition of Twenty Years a growing by Muiris Ó Súilleabháin.
 https://github.com/cavedave/FicheBlian/blob/main/French.jpg
 
-<img src="https://github.com/cavedave/FicheBlian/blob/main/French.jpg" width="100" height="100">
 
 
+<img src="https://github.com/cavedave/FicheBlian/blob/main/front.png" width="300" height="300">
 ![Front Cover](front.png)
 
 ## Please suggest fixes
@@ -26,12 +26,15 @@ If an error happens once it probably happens elsewhere and I can fix them all at
 ## Vingt ans de jeunesse French version 
 French Language Version. Vingt ans de jeunesse.  Not scanned  yet. If you can proof read French that would be great.
 
+<img src="https://github.com/cavedave/FicheBlian/blob/main/French.jpg" width="300" height="300">
 ![French](French.jpg)
 
 [Le Banc de Maquereaux](/FrenchMackerel.txt)
 
 ## Vingt ans de jeunesse German version 
 German Language Version. Inselheimat : Roman.  Not scanned  yet. If you can proof read German that would be great.
+
+<img src="https://github.com/cavedave/FicheBlian/blob/main/German.jpeg" width="300" height="300">
 
 ![German](German.jpeg)
 
